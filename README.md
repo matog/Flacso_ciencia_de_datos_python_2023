@@ -1,6 +1,8 @@
 # Introducción al análisis de datos sociales con Python
 
-Clase 1 - [Link al video](https://youtu.be/gfr0DdL_go4)
+Videos de las clases: 
+
+- Lista de reproducción - [Link](https://youtube.com/playlist?list=PLizG_Dj-QCrez54JuIIPT_CmxhrVIGF1c)
 
 #### Módulo I: Introducción a la programación en Python
 - Cómo instalar Python
