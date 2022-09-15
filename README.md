@@ -1,9 +1,19 @@
 # Introducción al análisis de datos sociales con Python
 
-Videos de las clases: 
+### Videos de las clases: 
 
 - Lista de reproducción - [Link](https://youtube.com/playlist?list=PLizG_Dj-QCrez54JuIIPT_CmxhrVIGF1c)
 
+### Link a las clases en colab:
+
+Intro a Python - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase1/0%20-%20Introduccion%20a%20Python.ipynb)
+Intro a Pandas - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase2/1%20-%20Introducción%20a%20pandas.ipynb)
+Netflix EDA - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase3/3%20-%20Netflix_EDA.ipynb)
+Merge y joins - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase3/4%20-%20Merge%20y%20Join.ipynb)
+Geopandas - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase4/5%20-%20GIS.ipynb)
+
+
+### Programa
 #### Módulo I: Introducción a la programación en Python
 - Cómo instalar Python
 - Archivos de programa en Python
