@@ -14,6 +14,9 @@
 - NTR Vaidya Seva - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase5/6-NTR%20Vaidya%20Seva.ipynb)
 - Webscrapping Casa Rosada Noticias [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase6/webscrapping.ipynb)
 - Webscrapping MercadoLibre [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase7/MercadoLibre.ipynb)
+- Muestras con datos ponderados - EPH [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase7/Análisis_EPH_1er_Trimestre_2021.ipynb)
+
+
 
 ### Programa
 #### Módulo I: Introducción a la programación en Python
