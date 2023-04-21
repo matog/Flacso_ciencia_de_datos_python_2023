@@ -2,7 +2,7 @@
 
 ### Videos de las clases: 
 
-- Lista de reproducción - _empty_
+- Lista de reproducción - [Link a lista de reproducción](https://www.youtube.com/playlist?list=PLizG_Dj-QCrfIk2DcLSDPqf-eBdJf4Uzm)
 
 ### Link a las clases en colab:
 
