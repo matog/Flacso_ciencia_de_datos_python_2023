@@ -1,5 +1,6 @@
 # Introducción al análisis de datos sociales con Python
 
+
 ### Videos de las clases: 
 
 - Lista de reproducción - [Link a lista de reproducción](https://www.youtube.com/playlist?list=PLizG_Dj-QCrfIk2DcLSDPqf-eBdJf4Uzm)
@@ -10,7 +11,12 @@
 - Intro a Pandas - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase2/1%20-%20Introducción%20a%20pandas.ipynb)
 - Netflix EDA - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase3/3%20-%20Netflix_EDA.ipynb)
 - Merge y joins - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase3/4%20-%20Merge%20y%20Join.ipynb)
-- Geopandas - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase4/https://github.com/matog/Flacso_ciencia_de_datos_python_2023/blob/main/Clase4/5_GIS.ipynb)
+
+
+- Geopandas - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase4/5_GIS.ipynb)
+
+
+
 - NTR Vaidya Seva - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase5/6-NTR%20Vaidya%20Seva.ipynb)
 - Webscrapping Casa Rosada Noticias [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase6/webscrapping.ipynb)
 - Webscrapping MercadoLibre [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase7/MercadoLibre.ipynb)
